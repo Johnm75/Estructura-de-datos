@@ -1,0 +1,16 @@
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.exe
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.deps.json
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.runtimeconfig.json
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.runtimeconfig.dev.json
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.dll
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\ref\datos.dll
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.pdb
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.csproj.AssemblyReference.cache
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.AssemblyInfoInputs.cache
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.AssemblyInfo.cs
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.csproj.CoreCompileInputs.cache
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.dll
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\ref\datos.dll
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.pdb
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.genruntimeconfig.cache
