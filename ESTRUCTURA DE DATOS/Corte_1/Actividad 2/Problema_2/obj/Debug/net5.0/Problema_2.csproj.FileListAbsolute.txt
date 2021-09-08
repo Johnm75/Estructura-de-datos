@@ -1,0 +1,16 @@
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\Problema_2.csprojAssemblyReference.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\Problema_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\Problema_2.AssemblyInfoInputs.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\Problema_2.AssemblyInfo.cs
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\Problema_2.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\bin\Debug\net5.0\Problema_2.exe
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\bin\Debug\net5.0\Problema_2.deps.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\bin\Debug\net5.0\Problema_2.runtimeconfig.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\bin\Debug\net5.0\Problema_2.runtimeconfig.dev.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\bin\Debug\net5.0\Problema_2.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\bin\Debug\net5.0\ref\Problema_2.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\bin\Debug\net5.0\Problema_2.pdb
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\Problema_2.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\ref\Problema_2.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\Problema_2.pdb
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\1 Corte\programacion CS\Actividades\Actividad_2\Problema_2\obj\Debug\net5.0\Problema_2.genruntimeconfig.cache
