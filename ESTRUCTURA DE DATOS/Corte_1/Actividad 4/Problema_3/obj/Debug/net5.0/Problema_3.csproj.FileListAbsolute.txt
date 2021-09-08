@@ -1,0 +1,16 @@
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\Problema_3.csproj.AssemblyReference.cache
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\Problema_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\Problema_3.AssemblyInfoInputs.cache
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\Problema_3.AssemblyInfo.cs
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\Problema_3.csproj.CoreCompileInputs.cache
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\bin\Debug\net5.0\Problema_3.exe
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\bin\Debug\net5.0\Problema_3.deps.json
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\bin\Debug\net5.0\Problema_3.runtimeconfig.json
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\bin\Debug\net5.0\Problema_3.runtimeconfig.dev.json
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\bin\Debug\net5.0\Problema_3.dll
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\bin\Debug\net5.0\ref\Problema_3.dll
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\bin\Debug\net5.0\Problema_3.pdb
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\Problema_3.dll
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\ref\Problema_3.dll
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\Problema_3.pdb
+C:\Users\mleiv\OneDrive\Escritorio\Actividad_4\Problema_3\obj\Debug\net5.0\Problema_3.genruntimeconfig.cache
