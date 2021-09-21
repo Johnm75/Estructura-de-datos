@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\roper\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\roper\\.nuget\\packages"
-    ]
-  }
-}
