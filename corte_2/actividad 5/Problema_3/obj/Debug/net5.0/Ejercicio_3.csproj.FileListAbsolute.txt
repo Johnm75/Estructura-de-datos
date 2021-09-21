@@ -1,0 +1,16 @@
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.exe
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.deps.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.runtimeconfig.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.runtimeconfig.dev.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\bin\Debug\net5.0\ref\Ejercicio_3.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\bin\Debug\net5.0\Ejercicio_3.pdb
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.csprojAssemblyReference.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.AssemblyInfoInputs.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.AssemblyInfo.cs
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\ref\Ejercicio_3.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.pdb
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_1\Ejercicio_3\obj\Debug\net5.0\Ejercicio_3.genruntimeconfig.cache
