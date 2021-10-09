@@ -1,0 +1,16 @@
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.exe
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.deps.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.runtimeconfig.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.runtimeconfig.dev.json
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\bin\Debug\net5.0\ref\Ejercicio_11.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\bin\Debug\net5.0\Ejercicio_11.pdb
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.csprojAssemblyReference.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.AssemblyInfoInputs.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.AssemblyInfo.cs
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\ref\Ejercicio_11.dll
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.pdb
+C:\Users\HP USER\Documents\Estudio\Universidad\2 Semestre\Estructura de datos\2-Corte\Actividades\Actividad_6\Ejercicio_11\obj\Debug\net5.0\Ejercicio_11.genruntimeconfig.cache
