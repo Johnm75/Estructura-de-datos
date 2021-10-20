@@ -1,0 +1,16 @@
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\C#8octubre.csproj.AssemblyReference.cache
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\C#8octubre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\C#8octubre.AssemblyInfoInputs.cache
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\C#8octubre.AssemblyInfo.cs
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\C#8octubre.csproj.CoreCompileInputs.cache
+C:\Users\jhonf\Desktop\C#8octubre\bin\Debug\net5.0\C#8octubre.exe
+C:\Users\jhonf\Desktop\C#8octubre\bin\Debug\net5.0\C#8octubre.deps.json
+C:\Users\jhonf\Desktop\C#8octubre\bin\Debug\net5.0\C#8octubre.runtimeconfig.json
+C:\Users\jhonf\Desktop\C#8octubre\bin\Debug\net5.0\C#8octubre.runtimeconfig.dev.json
+C:\Users\jhonf\Desktop\C#8octubre\bin\Debug\net5.0\C#8octubre.dll
+C:\Users\jhonf\Desktop\C#8octubre\bin\Debug\net5.0\ref\C#8octubre.dll
+C:\Users\jhonf\Desktop\C#8octubre\bin\Debug\net5.0\C#8octubre.pdb
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\C#8octubre.dll
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\ref\C#8octubre.dll
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\C#8octubre.pdb
+C:\Users\jhonf\Desktop\C#8octubre\obj\Debug\net5.0\C#8octubre.genruntimeconfig.cache

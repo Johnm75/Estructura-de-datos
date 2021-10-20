@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "C#8octubre/1.0.0": {
+        "runtime": {
+          "C#8octubre.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#8octubre/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
